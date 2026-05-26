@@ -35,7 +35,7 @@ CarManagement est une application web permettant de gérer une flotte de voiture
 ## Aperçu
 
 ### Page d'accueil
-![Page d'accueil](Captures/Capture%20d'écran%202026-05-25%20232029.png)
+![Page d'accueil](Captures/Capture%20d'écran%202026-05-25%20232215.png)
 
 ### Liste des voitures
 ![Ajouter une voiture](Captures/Capture%20d'écran%202026-05-26%20013553.png)
